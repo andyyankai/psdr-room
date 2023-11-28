@@ -10,4 +10,7 @@ Other dependencies such as opencv, imageio can install by pip
 
 
 ## Code
+
+[`Object Stage`](https://github.com/andyyankai/psdr-room/tree/main/object_stage)
+
 [`Material and Lighting Stage`](https://github.com/andyyankai/psdr-room/tree/main/material_light_stage)
