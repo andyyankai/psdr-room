@@ -1,0 +1,337 @@
+{
+    "cameraFoV": 64.53305053710938,
+    "cameraPitch": -25.781124114990234,
+    "cameraRoll": -9.450427055358887,
+    "mesh": {
+        "0_0.obj": {
+            "id": 0,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_1_0",
+            "cat_name": "potted plant",
+            "visible": true,
+            "render_mask_inital": "0.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.011612245179743885,
+                0.010329823029626936,
+                0.011612245179743885
+            ]
+        },
+        "0_1.obj": {
+            "id": 1,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_1_0",
+            "cat_name": "potted plant",
+            "visible": true,
+            "render_mask_inital": "1.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.006048833022857054,
+                0.006048833022857054,
+                0.006512090792594475
+            ]
+        },
+        "0_2.obj": {
+            "id": 2,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_1_0",
+            "cat_name": "potted plant",
+            "visible": true,
+            "render_mask_inital": "2.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.033104766570885055,
+                0.06124605423161761,
+                0.027320891639074894
+            ]
+        },
+        "1_0.obj": {
+            "id": 3,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_2_0",
+            "cat_name": "window-other",
+            "visible": true,
+            "render_mask_inital": "3.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.0595112381629812,
+                0.08437621154414882,
+                0.07227185068231748
+            ]
+        },
+        "1_1.obj": {
+            "id": 4,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_2_0",
+            "cat_name": "window-other",
+            "visible": true,
+            "render_mask_inital": "4.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.2788942634768104,
+                0.30946892281750854,
+                0.2831487404299921
+            ]
+        },
+        "2_0.obj": {
+            "id": 5,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_3_0",
+            "cat_name": "couch",
+            "visible": true,
+            "render_mask_inital": "5.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.5711248294648731,
+                0.5906188409193369,
+                0.5520114015120001
+            ]
+        },
+        "2_1.obj": {
+            "id": 6,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_3_0",
+            "cat_name": "couch",
+            "visible": true,
+            "render_mask_inital": "6.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.4232676699860717,
+                0.4286904966139066,
+                0.39675523072562685
+            ]
+        },
+        "2_2.obj": {
+            "id": 7,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_3_0",
+            "cat_name": "couch",
+            "visible": true,
+            "render_mask_inital": "7.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.4019777798321958,
+                0.4178850708481375,
+                0.38132601143253014
+            ]
+        },
+        "3_0.obj": {
+            "id": 8,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_6_0",
+            "cat_name": "chair",
+            "visible": true,
+            "render_mask_inital": "8.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.17464740365558504,
+                0.14702726649759498,
+                0.10946171077829933
+            ]
+        },
+        "3_1.obj": {
+            "id": 9,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_6_0",
+            "cat_name": "chair",
+            "visible": false,
+            "render_mask_inital": "9.jpg",
+            "auto_crop_data": {},
+            "roughness": 1.0,
+            "specular": 0.02,
+            "color": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "3_2.obj": {
+            "id": 10,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_6_0",
+            "cat_name": "chair",
+            "visible": false,
+            "render_mask_inital": "10.jpg",
+            "auto_crop_data": {},
+            "roughness": 1.0,
+            "specular": 0.02,
+            "color": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "3_3.obj": {
+            "id": 11,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_6_0",
+            "cat_name": "chair",
+            "visible": false,
+            "render_mask_inital": "11.jpg",
+            "auto_crop_data": {},
+            "roughness": 1.0,
+            "specular": 0.02,
+            "color": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "3_4.obj": {
+            "id": 12,
+            "is_group": true,
+            "is_emitter": false,
+            "mask": "panoptic_seg_mask_6_0",
+            "cat_name": "chair",
+            "visible": true,
+            "render_mask_inital": "12.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.3662525955988395,
+                0.35396637182319146,
+                0.3005437944157765
+            ]
+        },
+        "wall_1.obj": {
+            "id": 13,
+            "is_group": false,
+            "is_emitter": false,
+            "mask": "wall_1",
+            "cat_name": "wall_1.obj",
+            "visible": true,
+            "render_mask_inital": "13.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.47353149614800955,
+                0.5028864580325687,
+                0.4793201831008268
+            ]
+        },
+        "ceiling.obj": {
+            "id": 14,
+            "is_group": false,
+            "is_emitter": false,
+            "mask": null,
+            "cat_name": "ceiling.obj",
+            "visible": false,
+            "render_mask_inital": "14.jpg",
+            "auto_crop_data": {},
+            "roughness": 1.0,
+            "specular": 0.02,
+            "color": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "wall_0.obj": {
+            "id": 15,
+            "is_group": false,
+            "is_emitter": false,
+            "mask": "wall_0",
+            "cat_name": "wall_0.obj",
+            "visible": true,
+            "render_mask_inital": "15.jpg",
+            "auto_crop_data": {},
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.4793201831008268,
+                0.5457244613701866,
+                0.5088813208549338
+            ]
+        },
+        "floor.obj": {
+            "id": 16,
+            "is_group": false,
+            "is_emitter": false,
+            "mask": "floor",
+            "cat_name": "floor.obj",
+            "visible": true,
+            "render_mask_inital": "16.jpg",
+            "auto_crop_data": {
+                "auto_floor_crop_0.exr": [
+                    438,
+                    585,
+                    323,
+                    499
+                ]
+            },
+            "roughness": 0.5,
+            "specular": 0.02,
+            "color": [
+                0.4396571738409188,
+                0.31398871337571754,
+                0.20863687014525575
+            ],
+            "scale": 4,
+            "rotate": 20.0,
+            "material": "matchv1_wood_blinds.sbs",
+            "material_var": 1
+        }
+    },
+    "id_to_mesh": {
+        "0": "0_0.obj",
+        "1": "0_1.obj",
+        "2": "0_2.obj",
+        "3": "1_0.obj",
+        "4": "1_1.obj",
+        "5": "2_0.obj",
+        "6": "2_1.obj",
+        "7": "2_2.obj",
+        "8": "3_0.obj",
+        "9": "3_1.obj",
+        "10": "3_2.obj",
+        "11": "3_3.obj",
+        "12": "3_4.obj",
+        "13": "wall_1.obj",
+        "14": "ceiling.obj",
+        "15": "wall_0.obj",
+        "16": "floor.obj"
+    },
+    "emitter": {
+        "light.obj": 1.5,
+        "light_cam.obj": 1.5
+    },
+    "id_to_emitter": {
+        "0": "light.obj",
+        "1": "light_cam.obj"
+    },
+    "auto_crop_dict": {
+        "auto_floor_crop_0.exr": "floor.obj"
+    }
+}

@@ -1,0 +1,15 @@
+*.o
+*.so
+*.log
+*.exe
+__pycache__
+build/
+ext_win64/
+local/
+examples/
+dist/
+tmp/
+output
+external_input/
+.ipynb_checkpoints
+.vscode/
