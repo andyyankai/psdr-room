@@ -1,0 +1,34 @@
+[
+    {
+        "mask_raw": "panoptic_seg_mask_1_0",
+        "category": "potted plant"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_2_0",
+        "category": "window-other"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_3_0",
+        "category": "couch"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_4_0",
+        "category": "curtain"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_5_0",
+        "category": "chair"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_6_0",
+        "category": "chair"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_7",
+        "category": "floor-wood"
+    },
+    {
+        "mask_raw": "panoptic_seg_mask_8",
+        "category": "wall-other-merged"
+    }
+]

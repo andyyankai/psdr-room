@@ -2,9 +2,9 @@
 
 ## Running example
 ```bash
-python fine_stage [your scene name]
+python fine_stage.py [your scene name]
 ```
 for example:
 ```bash
-python fine_stage 63
+python fine_stage.py 63
 ```
