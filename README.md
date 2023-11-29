@@ -1,4 +1,8 @@
-# psdr-room
+# psdr-room optimization code
+
+PSDR-ROOM: Single Photo to Scene using Differentiable Rendering (siggraph asia 2023)
+
+[`Project Page`](https://shuangz.com/projects/psdr-room-sa23/)
 
 ## Required Dependency
 
