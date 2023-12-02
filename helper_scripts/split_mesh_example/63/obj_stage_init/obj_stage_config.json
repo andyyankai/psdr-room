@@ -1,0 +1,111 @@
+{
+    "scene": {
+        "wall": [
+            63.77136900533217,
+            -26.22863099466783
+        ],
+        "floor_height": -0.33570218086242676,
+        "room_height": 0.06963715702295303,
+        "room": {
+            "scale": 0.7934396862983704,
+            "transx": -0.31079724431037903,
+            "transy": 0.1229747012257576,
+            "rotate": 8.420150756835938,
+            "ceiling_up": 0.0,
+            "floor_up": 0.0
+        },
+        "floor_height_opt": -0.33570218086242676
+    },
+    "cameraFoV": 64.53305053710938,
+    "cameraPitch": -25.781124114990234,
+    "cameraRoll": -9.450427055358887,
+    "obj_init": [
+        {
+            "is_on_floor": true,
+            "is_on_wall": false,
+            "mask_name": "panoptic_seg_mask_1_0",
+            "cat_name": "potted plant",
+            "model": "dd478b28-d02b-429f-8f08-654e3a5f77a0",
+            "scale": 0.1287856251001358,
+            "center": [
+                0.055155761539936066,
+                -0.19865860044956207,
+                0.5383461713790894
+            ],
+            "rotate": 90,
+            "clip_text": [
+                "chair",
+                "face left",
+                "back-face",
+                "sofa",
+                "face right",
+                "table",
+                "front-face",
+                "bed"
+            ]
+        },
+        {
+            "is_on_floor": false,
+            "is_on_wall": true,
+            "mask_name": "panoptic_seg_mask_2_0",
+            "cat_name": "window-other",
+            "model": "wall_square",
+            "wall_id": 1,
+            "scale": 0.14657029509544373,
+            "center": [
+                -0.14063745737075806,
+                -0.05983603000640869,
+                0.8465997576713562
+            ],
+            "rotate": 0
+        },
+        {
+            "is_on_floor": true,
+            "is_on_wall": false,
+            "mask_name": "panoptic_seg_mask_3_0",
+            "cat_name": "couch",
+            "model": "2ae5cf29-90c3-4e7d-b704-f677de8de74c",
+            "scale": 0.19747596979141235,
+            "center": [
+                -0.18146874010562897,
+                -0.24206064641475677,
+                0.33703336119651794
+            ],
+            "rotate": 90,
+            "clip_text": [
+                "sofa",
+                "bed",
+                "chair",
+                "back-face",
+                "table",
+                "face left",
+                "front-face",
+                "face right"
+            ]
+        },
+        {
+            "is_on_floor": true,
+            "is_on_wall": false,
+            "mask_name": "panoptic_seg_mask_6_0",
+            "cat_name": "chair",
+            "model": "0bd81869-830e-4673-bfeb-e4d1e5c60302",
+            "scale": 0.13326293230056763,
+            "center": [
+                0.1173723116517067,
+                -0.285194456577301,
+                0.39962369203567505
+            ],
+            "rotate": 45,
+            "clip_text": [
+                "chair",
+                "back-face",
+                "face left",
+                "table",
+                "sofa",
+                "bed",
+                "face right",
+                "front-face"
+            ]
+        }
+    ]
+}
